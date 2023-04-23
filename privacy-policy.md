@@ -31,7 +31,7 @@ You have the right to access and control your personal information. You can acce
 
 We may update our Privacy Policy from time to time. If we make any material changes, we will notify you by email or by posting a notice on our website.
 
-This Privacy Policy was last updated on 4/21/2023.
+This Privacy Policy was last updated on 4/23/2023.
 
 ## Contact Us
 
