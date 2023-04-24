@@ -14,10 +14,6 @@ We use your email and encrypted password only for log in purposes. We do not sel
 
 We do not share your personal information with any third parties.
 
-### Data Storage
-
-We do not store any of your data used in Mintr or any other service. Your data is stored locally, in your browser.
-
 ### Data Security
 
 We take data security seriously and use industry-standard security measures to protect your personal information.
